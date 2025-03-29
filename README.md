@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacek
-- 👀 I’m interested in languages and learning
-- 🌱 I’m currently learning German, Spanish and coding
+- 👀 I’m interested in learning all kind of stuff
+- 🌱 I’m currently learning Python and a litlle bit HTML/CSS
 - 📫 How to reach me: via e-mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
