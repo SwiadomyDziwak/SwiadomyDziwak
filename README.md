@@ -11,7 +11,9 @@
 
 I like quite a few thing, most important among them being:
 
-### 📚 Learning
+<details>
+    <summary>📚 Learning</summary>
+</details>
 ### 💻 Programming
 ### 🥊 Exercising
 ### 📖 Reading
