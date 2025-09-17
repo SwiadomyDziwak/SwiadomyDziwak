@@ -11,8 +11,8 @@
 
 I like quite a few thing, most important among them being:
 
-## 📚 Learning
-## 💻 Programming
-## 🥊 Exercising
-## 📖 Reading
-## 🎮 Video Games
+### 📚 Learning
+### 💻 Programming
+### 🥊 Exercising
+### 📖 Reading
+### 🎮 Video Games
