@@ -14,7 +14,15 @@ I like quite a few thing, most important among them being:
 <details>
     <summary>📚 Learning</summary>
 </details>
-### 💻 Programming
-### 🥊 Exercising
-### 📖 Reading
-### 🎮 Video Games
+<details>
+    <summary>💻 Programming</summary>
+</details>
+<details>
+    <summary>🥊 Exercising</summary>
+</details>
+<details>
+    <summary>📖 Reading</summary>
+</details>
+<details>
+    <summary>🎮 Video Games</summary>
+</details>
