@@ -4,3 +4,15 @@
 - 🏷 Name: Jacek
 - 🍼 Born: 1990
 - 🗺 From: Poland
+
+---
+
+# ⚽️ Hobbies
+
+I like quite a few thing, most important among them being:
+
+## 📚 Learning
+## 💻 Programming
+## 🥊 Exercising
+## 📖 Reading
+## 🎮 Video Games
