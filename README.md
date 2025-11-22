@@ -17,3 +17,7 @@ I like quite a few thing, most important among them being:
 - 🥊 Exercising
 - 📖 Reading
 - 🎮 Video Games
+
+---
+
+# Current Projects
