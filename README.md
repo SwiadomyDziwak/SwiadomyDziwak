@@ -21,3 +21,5 @@ I like quite a few thing, most important among them being:
 ---
 
 # Current Projects
+
+- 🌐 Static Site Generator (*boot.dev* project)
