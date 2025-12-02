@@ -13,7 +13,7 @@
 I like quite a few thing, most important among them being:
 
 - 📚 Learning - There's nothing like earning a new skill or knowledge and be able to polish it beyond the *"beginner tier"*.
-- 💻 Programming
+- 💻 Programming - Solving problems and creating something from nothing is pure joy.
 - 🥊 Exercising
 - 📖 Reading
 - 🎮 Video Games
