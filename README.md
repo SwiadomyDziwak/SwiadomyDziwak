@@ -1,26 +1,27 @@
 **README** in the making, I am currently very busy but I will try to update it regularly to make it my own and good looking!
 
-# 📄 General Info
+# General Info
 
-- 🏷 **Name:** Jacek
-- 🍼 **Born:** 1990
-- 🗺 **From:** Poland
+- **Name:** Jacek
+- **Born:** 1990
+- **From:** Poland
 
 ---
 
-# ⚽️ Hobbies
+# Hobbies
 
 I like quite a few thing, most important among them being:
 
-- 📚 Learning - There's nothing like earning a new skill or knowledge and be able to polish it beyond the *"beginner tier"*.
-- 💻 Programming - Solving problems and creating something from nothing is pure joy.
-- 🥊 Exercising - Healthy body, healthy mind.
-- 📖 Reading
-- 🎮 Video Games
+- Learning - There's nothing like earning a new skill or knowledge and be able to polish it beyond the *"beginner tier"*.
+- Programming - Solving problems and creating something from nothing is pure joy.
+- Exercising - Healthy body, healthy mind.
+- Reading
+- Video Games
 
 ---
 
 # Current Projects
 
-- 🌐 Static Site Generator (*boot.dev* project)
-- 🌐 Dynamic Website (*Flask*)
+- Dynamic Website (*Flask*)
+- Personal Website (*Flask*)
+- Video Game Prototype to Learn C basics
